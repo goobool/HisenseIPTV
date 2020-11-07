@@ -1,7 +1,4 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="ลิ้งค์urlไฟล์ภาพโลโก้ช่อง(.jpg/.png)" group-title="ชื่อกลุ่ม1",ชื่อช่องที่ให้แสดง
-ลิ้งค์urlช่อง.m3u8
 
 Playlist Name: Hisense IPTV.m3u8
 Last Update: 10-11-2020
