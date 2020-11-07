@@ -4,7 +4,7 @@ Playlist Name: Hisense IPTV.m3u8
 Last Update: 10-11-2020
 ========================================
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/91rHLL8DufeUTtZr6" group-title="PREMIUM", Premier HD1 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://liveduball.com/wp-content/themes/liveduball/images/premier-1.jpg&sa=U&ved=0ahUKEwiIrOn-9u_sAhWEjeYKHYH_AYMQ5hMIBTAA&usg=AOvVaw2ywlDCZHTi6MxRPfBw5leS" group-title="PREMIUM", Premier HD1 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/e1BqVFTp7u9P2K5s5" group-title="PREMIUM", Premier HD2 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 
